@@ -1,7 +1,7 @@
 # Data Curator
 
 
-![data curator icon](static/img/data-curator-banner.png)
+![data curator icon](img/data-curator-banner.png)
 
 Data Curator is a simple desktop CSV editor to help describe, validate and share usable open data.
 
@@ -51,7 +51,7 @@ Open data consumers can use published Data Packages to:
 - download the data together with its metadata in a single zip file
 - use [a suite of tools](http://frictionlessdata.io/tools/) to work with the data
 
-![data curator screen shot](static/img/data-curator-preview.png)
+![data curator screen shot](img/data-curator-preview.png)
 
 ## Follow our progress
 
